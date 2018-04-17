@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-mdpi_nautilus.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-mdpi/nautilus.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xhdpi_nautilus.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xhdpi/nautilus.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-mdpi_background.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/layout_nfcreading.xml.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/layout/nfcreading.xml"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/menu_tag.xml.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/menu/tag.xml"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xhdpi_background.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-hdpi_nautilus.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-hdpi/nautilus.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-ldpi_nautilus.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-ldpi/nautilus.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xxhdpi_nautilus.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xxhdpi/nautilus.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-ldpi_background.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/build/intermediates/res/merged/debug/drawable-hdpi_background.png.flat",
+        "source": "/home/saul/AndroidStudioProjects/TagNFCMBDSLoups/app/src/main/res/drawable-hdpi/background.png"
+    }
+]
